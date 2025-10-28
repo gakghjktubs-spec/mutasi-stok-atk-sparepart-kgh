@@ -1,0 +1,6 @@
+/* Header biru pastel (opsi B) */
+header { background: #e6eef7; }
+header h2 { color: #0b2b4a; } /* judul lebih kontras */
+header small { color: #345; }
+body { font-family: Arial, Helvetica, sans-serif; }
+.table-sm td, .table-sm th { vertical-align: middle; }
