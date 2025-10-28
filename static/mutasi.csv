@@ -1,0 +1,15 @@
+Tanggal,Kode,Nama,Jenis,Jumlah,Nama Input,Kode Barang,Keterangan
+2025-10-11 13:03:55,KGH00001,Buku tulis,stok awal,5,Upload Stok Awal,,
+2025-10-11 13:03:55,KGH00002,Pensil,stok awal,5,Upload Stok Awal,,
+2025-10-11 13:03:55,KGH00003,Kertas Hvs A4 E-paper 75 Gr,stok awal,3,Upload Stok Awal,,
+2025-10-11 13:04:07,KGH00001,Buku tulis,stok awal,5,Upload Stok Awal,,
+2025-10-11 13:04:07,KGH00002,Pensil,stok awal,5,Upload Stok Awal,,
+2025-10-11 13:04:07,KGH00003,Kertas Hvs A4 E-paper 75 Gr,stok awal,3,Upload Stok Awal,,
+2025-10-11 13:14:43,KGH00001,Buku tulis,stok awal,5,Upload Stok Awal,,
+2025-10-11 13:14:43,KGH00002,Pensil,stok awal,5,Upload Stok Awal,,
+2025-10-11 13:14:43,KGH00003,Kertas Hvs A4 E-paper 75 Gr,stok awal,3,Upload Stok Awal,,
+2025-10-13 09:03:53,,,Stok Awal,5.0,Upload Excel,KGH00001,Upload Stok Awal
+2025-10-13 09:03:53,,,Stok Awal,5.0,Upload Excel,KGH00002,Upload Stok Awal
+2025-10-13 09:03:53,,,Stok Awal,3.0,Upload Excel,KGH00003,Upload Stok Awal
+2025-10-13 09:05:34,,,keluar,1.0,Andika,KGH00003,Dipakai di gudang
+2025-10-13 09:40:12,,,keluar,5.0,Erni,KGH00001,Dipakai di produksi
